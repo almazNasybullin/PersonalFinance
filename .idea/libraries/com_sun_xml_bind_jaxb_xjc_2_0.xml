@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="com.sun.xml.bind:jaxb-xjc:2.0" type="repository">
+    <properties maven-id="com.sun.xml.bind:jaxb-xjc:2.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-xjc-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-impl-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-api-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsr173_api-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/activation-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
